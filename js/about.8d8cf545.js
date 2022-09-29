@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkstarbucks_vue"]=self["webpackChunkstarbucks_vue"]||[]).push([[443],{7381:function(u,n,s){s.r(n),s.d(n,{default:function(){return f}});var t=s(3396);const a={class:"about"},e=(0,t._)("h1",null,"This is an about page",-1),r=[e];function c(u,n){return(0,t.wg)(),(0,t.iD)("div",a,r)}var i=s(89);const o={},b=(0,i.Z)(o,[["render",c]]);var f=b}}]);
+//# sourceMappingURL=about.8d8cf545.js.map
